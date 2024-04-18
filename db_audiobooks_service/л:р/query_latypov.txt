@@ -1,0 +1,7 @@
+Найти трёх пользователей, начавших слушать (и, возможно, дослушавших до конца) максимальное количество книг.
+
+SELECT user_id, COUNT(DISTINCT audiobook_id) AS total_books_listened
+FROM LISTEN_HISTORY
+GROUP BY user_id
+ORDER BY total_books_listened DESC
+LIMIT 3;

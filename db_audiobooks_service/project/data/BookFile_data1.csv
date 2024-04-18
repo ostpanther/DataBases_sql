@@ -1,0 +1,47 @@
+﻿audiobook_id;book_file_name;book_file_type;book_file_size;duration;sequence
+1;Onegin;MP3;634;70;1
+1;Onegin;MP3;1334;130;2
+2;Vojna i mir;MP3;1432;133;1
+2;Vojna i mir;MP3;1932;164;2
+2;Vojna i mir;MP3;2932;119;3
+2;Vojna i mir;MP3;3132;179;4
+3;Prestuplenie i nakazanie;MP3;612;119;1
+3;Prestuplenie i nakazanie;MP3;689;135;2
+4;Idiot;MP3;932;213;1
+5;Vishnevy sad;MP3;555;94;1
+6;Mertvye dushi;WAV;823;203;1
+7;Ottsy i deti;WAV;453;124;1
+7;Ottsy i deti;WAV;400;121;2
+8;Geroi nashego vremeni;FLAC;599;174;1
+9;Master i Margarita;MP3;793;133;1
+9;Master i Margarita;MP3;742;123;2
+9;Master i Margarita;MP3;893;180;3
+10;Odin den' Ivana Denisovicha;WAV;1022;211;1
+11;Azazel';FLAC;500;120;1
+11;Azazel';FLAC;501;130;2
+12;Finansist;MP3;1649;212;1
+12;Finansist;MP3;1449;192;2
+13;Proschai, oruzhie;AAC;2342;251;1
+14;Gordost' i predubezhdenie;MP3;4193;222;1
+15;Sobor Parizhskoi Bogomateri;AAC;1034;123;1
+15;Sobor Parizhskoi Bogomateri;AAC;1234;133;2
+15;Sobor Parizhskoi Bogomateri;AAC;1412;94;3
+15;Sobor Parizhskoi Bogomateri;AAC;1011;244;4
+16;1984;AIFF;1524;132;1
+16;1984;AIFF;1999;121;2
+17;Anna Karenina;AIFF;2599;103;1
+17;Anna Karenina;AIFF;2199;121;2
+18;Detstvo;MP3;304;121;1
+19;Otrochestvo;OGG;463;143;1
+20;Yunost';MP3;892;272;1
+21;Les miserables;MP3;1045;191;1
+21;Les miserables;MP3;1043;92;2
+21;Les miserables;MP3;1022;183;3
+21;Les miserables;MP3;1045;63;4
+21;Les miserables;MP3;1099;121;5
+21;Les miserables;MP3;1018;162;6
+22;L'Homme qui rit;FLAC;2552;121;1
+22;L'Homme qui rit;FLAC;3052;134;2
+23;Smert' poeta;WAV;1345;185;1
+24;Avtomaticheskaya obrabotka tekstov na estestvennom yazyke i analiz dannykh;MP3;501;185;1
+24;Avtomaticheskaya obrabotka tekstov na estestvennom yazyke i analiz dannykh;MP3;401;183;2

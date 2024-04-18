@@ -1,0 +1,9 @@
+FROM mysql:8.3.0
+
+RUN apk update && \
+    apk add project_latypov
+
+COPY dump_project /project/dump_project 
+COPY project/docker/project_dir project_dir
+
+ENTRYPOINT [ "project_latypov" ]
